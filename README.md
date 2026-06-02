@@ -1,1 +1,1 @@
-https://zbwsay1ng.github.io/P4-ex3/
+In my project, AI assistance was mainly used in the JavaScript/Vue section of index.html.
